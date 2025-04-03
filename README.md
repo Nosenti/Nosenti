@@ -46,6 +46,11 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+>Roadmaps
+<P>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67ee5c2fd3017ef47d17ae74?variant=dark" alt="roadmap.sh"/></a>
+</P>
+
 >Tools
 <p>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
